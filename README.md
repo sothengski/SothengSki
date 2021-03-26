@@ -67,8 +67,7 @@ func GetBio() Bio {
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
-<p align="center"><img src="https:/github-readme-stats-sothengski.vercel.app
-/api?username=sothengski&show_icons=true&theme=synthwave" alt="SothengSki :: Profile Stats" /></p>
+<p align="center"><img src="https:/github-readme-stats-sothengski.vercel.app/api?username=sothengski&show_icons=true&theme=synthwave" alt="SothengSki :: Profile Stats" /></p>
 
 ----
 Credit: [AnhellO](https://github.com/AnhellO)
