@@ -1,75 +1,129 @@
-# SothengSki
-
-<h2 align="center">About me</h2>
-
-```golang
-package main
-
-import (
-	"fmt"
-)
-
-type Bio map[string]string
-
-func main() {
-	for k, v := range GetBio() {
-		fmt.Printf("%+v: %+v\n", k, v)
-	}
-}
-
-func GetBio() Bio {
-	return Bio{
-		"- ⚡ Quick bio:":                    "Keep learning and update yourself. Once you start learning things you finds better version of yourself",
-		"- 🔭 I’m currently working on":      "Hanuman Beverages Salesforce Automation System as a Senior Mobile App Developer --- ",
-		"- 🌱 I’m currently learning":        "Golang, MySQL, Firebase, K8s, GCP (Tech stack from my self) --- Sharpening my Front End Skills for the MEVN stack (Personal goal)",
-		"- 👯 I’m looking to collaborate on": "Dart, Python, Golang and Docker related projects",
-		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
-		"- 💬 Ask me about":                  "Python, Django, PHP, Laravel, SQL, Dart, Flutter, Software Design & Architecture, Web-Dev and UX/UI",
-		"- 📫 How to reach me:":              "https://github.com/SothengSki",
-	}
-}
-```
-
-<h2 align="center">You can reach me at :alien:</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+</p>
+<h1 align="center">👋 I'm Sotheng Chheang</h1>
+<h3 align="center">🚀 Full Stack Mobile Application Developer | Flutter Specialist</h3>
 
 <p align="center">
-  <a href="https://dev.to/anhello">
-    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Sotheng Ski's DEV Profile" height="30" width="30">
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=300&color=6E56F7&center=true&vCenter=true&width=435&lines=Software+Engineer;Flutter+Developer;Mobile+App+Specialist;UI/UX+Enthusiast;Cloud+Architecture;Always+Learning" alt="Typing SVG" />
+</p>
 
-  <a href="https://www.linkedin.com/in/sotheng-chheang-637a76134">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Sotheng Ski's LinkedIn Profile" height="30" width="30">
-  </a>
+---
 
-  <a href="https://gitlab.com/sothengski">
-    <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="Sotheng Ski's GitLab Profile" height="30" width="30">
-  </a>
+## ✨ About Me
+
+I thrive on solving **real-world problems** and crafting **user-centric solutions** that make a difference. Whether it’s **building scalable web apps**, **optimizing performance**, or **enhancing user experiences**, I’m always excited to dive into new challenges.
+
+- 🔧 **Professional Skills**: Specializing in **Flutter**, **Dart**, **Kotlin**, and **Java** with extensive experience in **Firebase**, **Google Cloud Platforms**, **Backend REST APIs**, and **Clean Architecture** design patterns along with state management **Riverpod** & **GetX**.
+
+- 🎨 **UI/UX Design**: Experienced in analyzing and designing user-friendly mobile interfaces using Figma, with a focus on creating intuitive user experiences for both mobile and web applications.
   
-  <a href="https://www.youtube.com/channel/UCVdEZ5R9anRn5bKXPzEsdZg">
-    <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Sotheng Ski's YouTube Channel" height="30" width="30">
-  </a>
+- 🚀 **Deployment & Quality**: Successfully integrated CI/CD processes, published apps on major app stores, and implemented best practices with Git and Atlassian tools (Jira) to ensure high-quality code, optimized performance, and security.
+
+- 🤝 **Leadership**: Led teams of developers, collaborated with backend teams for seamless data flow, and supported and trained both internal and external clients in system usage.
+
+---
+
+## 🛠️ Languages and Tools
+
+<h2 align="center" style="color: #10B981;">
+  <img src="https://cdn-icons-png.flaticon.com/512/126/126472.png" alt="tools" width="28" height="28" style="vertical-align: middle; margin-right: 8px; filter: invert(49%) sepia(96%) saturate(726%) hue-rotate(112deg) brightness(90%) contrast(88%);">
+  Tools
+</h2>
+
+<p align="center" style="display: flex; justify-content: space-between; align-items: center; max-width: 450px; margin: auto;">
+    
+  <img src="https://cursor.com/assets/images/logo.svg" alt="cursor" width="45" height="45"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Android_Studio_icon_%282023%29.svg" alt="android" width="45" height="45"/>
+  
+  <img src="https://icon.icepanel.io/Technology/svg/Xcode.svg" alt="vscode" width="45" height="45"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="intellij" width="45" height="45"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>
+
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/>
+
+  
 </p>
 
-<h2 align="center">My stack :man_technologist:</h2>
+<h2 align="center" style="color: #3B82F6;">
+  <img src="https://cdn-icons-png.flaticon.com/512/1903/1903496.png" alt="languages" width="28" height="28" style="vertical-align: middle; margin-right: 8px; filter: invert(17%) sepia(11%) saturate(857%) hue-rotate(500deg) brightness(116%) contrast(129%);">
+  Programming Languages</h2>
 
-<p align="center">Tools that I use on a daily basis, or that I've used or worked (either much or a bit) with on the past</p>
+<p align="center"  style="display: flex; justify-content: space-between; align-items: center; max-width: 500px; margin: auto;">
+  
+  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="45" height="45"/>
+    
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="45" height="45"/>
+
+  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="45" height="45"/> 
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
+
+  <!-- Web Development -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="45" height="45"/>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="45" height="45"/>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45"/>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
+</p>
+
+<h2 align="center" style="color:rgb(185, 185, 16);">🧩 Frameworks</h2>
+<p align="center" style="display: flex; justify-content: space-between; align-items: center; max-width: 300px; margin: auto;">
+
+ <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="45" height="45"/> 
+
+ <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vuejs" width="45" height="45" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="springboot" width="45" height="45"/>
+
+</p>
+<h2 align="center" style="color:rgb(230, 55, 55);">📚 Libraries & Databases</h2>
+
+<p align="center"  style="display: flex; justify-content: space-between; align-items: center; max-width: 300px; margin: auto;">
+  
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="45" height="45"/>
+  
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg" alt="postgresql" width="45" height="45"/>
+  
+  <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45" /> -->
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" />
+
+   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="45" height="45"/> 
+
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="45" height="45"/>
+</p>
+
+--- 
+
+## 📈 GitHub Stats!
+
 <p align="center">
-  <a href="#">
-    <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="AnhellO :: StackShare" />
-  </a>
+   <a href="https://github.com/sothengski/github-readme-stats"><img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sothengski&show_icons=true&layout=compact&theme=tokyonight&include_all_commits=true&count_private=true" width="400"/></a>
+	 | 
+   <a href="https://github.com/sothengski/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sothengski&show_icons=true&layout=compact&theme=tokyonight" width="300" /></a>
 </p>
 
-<h2 align="center">Github stats :bar_chart:</h2>
+---
 
-<h4 align="center">Top langs :tongue:</h4>
+### 🌟 Additional Highlights
+-  Always exploring **emerging technologies** and keen on **continuous learning**
 
-<p align="center"><img src="https://github-readme-stats-sothengski.vercel.app/api/top-langs/?username=Sothengski&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
+ -  Fluent in **Khmer** & **English**, with a basic understanding of **French**  
+ - Collaborative, problem-solving mindset, ready for new opportunities to grow
 
-<h4 align="center">Profile stats :musical_keyboard:</h4>
 
-<p align="center"><img src="https:/github-readme-stats-sothengski.vercel.app/api?username=sothengski&show_icons=true&theme=synthwave" alt="SothengSki :: Profile Stats" /></p>
-
-----
-Credit: [AnhellO](https://github.com/AnhellO)
-
-Last Edited on: 23/09/2020
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
